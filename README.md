@@ -125,13 +125,11 @@ ford-car-price-predictor/
 - [ ] Support other car brands/datasets with configurable schemas
 - [ ] Add SHAP-based explainability for individual predictions
 
-## 📄 License
 
-This project is available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Jyoti**
+**Abhisek**
 Data Science Aspirant | Machine Learning & Full-Stack Enthusiast
 
 If you found this useful, consider ⭐ starring the repo!
